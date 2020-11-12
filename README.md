@@ -1,2 +1,2 @@
 # learning
-Practicing
+Practicing Git Commands 
