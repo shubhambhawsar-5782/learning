@@ -1,2 +1,15 @@
-this is my new file to be working on fucking github.
-next line
+git clone "url"
+.
+git status
+.
+git add . #for all files and folder
+git add form.html #specific file
+.
+git commit -m "message"
+.
+git log
+.
+git push origin branchname-
+#if change and check what change did.
+.
+git difftool HEAD
