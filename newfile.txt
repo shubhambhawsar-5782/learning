@@ -15,4 +15,6 @@ git push origin branchname-
 git pull
 # change also in computer file.
 .
-git difftool HEAD
+git difftool HEAD.
+.
+git config --global user.name
