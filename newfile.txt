@@ -12,4 +12,7 @@ git log
 git push origin branchname-
 #if change and check what change did.
 .
+git pull
+# change also in computer file.
+.
 git difftool HEAD
